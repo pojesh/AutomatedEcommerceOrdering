@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qmorUY7YWUm6RaAIltcICw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/checkout-complete.html" DesignTimeRectangle="17, 189, 2549, 1184" FullSelectorArgument="&lt;webctrl id='page_wrapper' tag='DIV' /&gt;" Guid="15a405dc-0685-4357-b7c3-701a388e4f44" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ef1f3f736334b0bf671b397fb88e5233.png" xmlns="">0J3uNzmOkd02gqRAdgtRY6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

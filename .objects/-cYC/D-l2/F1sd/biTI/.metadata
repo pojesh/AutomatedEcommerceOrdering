@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open MenuAll ItemsAbout…",
+  "Type": "Element",
+  "Id": "biTIxvF4UkigG9aIZZThDw",
+  "Reference": "8T177DDQr0ypaNWl_KBwIw/biTIxvF4UkigG9aIZZThDw",
+  "ParentRef": "8T177DDQr0ypaNWl_KBwIw/F1sduWBvT0SAPloU49c_nw",
+  "Created": "2025-06-30T11:46:45.6180915Z",
+  "Updated": "2025-06-30T11:46:45.6180915Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

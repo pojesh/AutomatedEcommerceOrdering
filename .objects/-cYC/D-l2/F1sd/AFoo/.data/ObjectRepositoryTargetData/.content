@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-6Yqpn38yU6Szvs4fbcdbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/checkout-step-two.html" CVScreenId="6a1d7503-b49f-4303-aae1-be8ed6cd3e98" DesignTimeRectangle="523, 855, 1537, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl class='summary_subtotal_label' parentid='checkout_summary_container' tag='DIV' /&gt;" Guid="0aca95a8-0b19-4bb1-9a60-af4c9843aa0a" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="8cc7fa22a577037b4fb04e484865c9e5.png" xmlns="">0iDo7tPOoWka4iAnvxvGLyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

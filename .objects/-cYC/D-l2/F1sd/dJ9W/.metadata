@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Price Total",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "dJ9Wqmgx0kWqPqxsqJsePQ",
+  "Reference": "8T177DDQr0ypaNWl_KBwIw/dJ9Wqmgx0kWqPqxsqJsePQ",
+  "ParentRef": "8T177DDQr0ypaNWl_KBwIw/F1sduWBvT0SAPloU49c_nw",
+  "Created": "2025-06-30T11:32:48.1970588Z",
+  "Updated": "2025-06-30T11:32:48.1970588Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

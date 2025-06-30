@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ueM8AVufTES7OS5o0F3z4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/checkout-step-two.html" CVScreenId="cd480d23-f2a5-42a0-803a-bb0ae9b6e058" CvType="AnyWordGroup" DesignTimeRectangle="523, 879, 1537, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl class='summary_tax_label' parentid='checkout_summary_container' tag='DIV' /&gt;" Guid="6db291cb-a7b7-4cdb-8f54-8663eace9d2a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cd480d23-f2a5-42a0-803a-bb0ae9b6e058" CvTextArea="521, 828, 144, 19" CvTextArgument="Price Total" CvType="Text" DesignTimeRectangle="522, 828, 144, 19" ElementType="Text" Guid="6f49fe31-d3aa-435d-bdbb-5b0b95ea2d5e" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="94b5396f2929b9b2565a5288de47d4c3.png" xmlns="">0udtyVjw7J0-LzHD6Hwnlog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
