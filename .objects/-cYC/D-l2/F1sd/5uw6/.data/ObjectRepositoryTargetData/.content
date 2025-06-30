@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JcZ3FpCVfE-UXnQUwTwFHA" Reference="8T177DDQr0ypaNWl_KBwIw/5uw6cyojzU6FhrMDT9ugCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="ab2212ea-6dc8-4cce-a319-45db8a3d37c7" DesignTimeRectangle="1515, 398, 359, 24" ElementType="Text" FullSelectorArgument="[String.Format(&quot;&lt;webctrl aaname='{0}' tag='DIV' /&gt;&quot;, ProductName)]" Guid="12240cf8-dd30-44a4-bba4-d4553da8d585" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="3d8b3adb4f4e55ec3cff9dcf0ed83cd6.png" xmlns="">0O4Ibx2foeU-WGLfMsTH5wA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="ProductName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

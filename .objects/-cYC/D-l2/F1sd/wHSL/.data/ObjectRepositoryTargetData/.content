@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LWwISHPJy0eFTRatxJrj6g" Reference="8T177DDQr0ypaNWl_KBwIw/wHSLFIiE_0CxZ4h-rG5zAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="5f5ecf0e-fc3f-4a16-bffc-0b740f29c43f" CvElementArea="1678, 595, 198, 45" CvTextArea="1724, 608, 105, 18" CvTextArgument="Add to cart" CvType="Button" DesignTimeRectangle="1682, 598, 192, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl id='add-to-cart-sauce-labs-bike-light' tag='BUTTON' /&gt;" Guid="cb2b3d06-3ba7-48af-9ce5-008fccbe8e15" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="5f5ecf0e-fc3f-4a16-bffc-0b740f29c43f" CvTextArea="1512, 399, 303, 27" CvTextArgument="[CurrentRow(&quot;Product Name&quot;).ToString]" CvType="Text" DesignTimeRectangle="1515, 400, 359, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Sauce Labs Bike Light' tag='DIV' type='' class='inventory_item_name ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Sauce Labs Bike Light' /&gt;" Guid="75c18770-46d5-4f64-b11f-6a668a25333b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c2cab81c9be68241587f11919495a536.png" xmlns="">0JdSO47mTVU-u5zbIp3_zkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

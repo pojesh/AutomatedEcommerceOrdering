@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ED3OR_WATkG8l5j3pvXFEg" Reference="8T177DDQr0ypaNWl_KBwIw/BZrbdMuJbUyy20dUazWXVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/inventory.html" CVScreenId="29c8a27d-674c-452c-a711-661154059162" CvElementArea="1013, 595, 197, 44" CvTextArea="1058, 608, 106, 18" CvTextArgument="Add to cart" CvType="Button" DesignTimeRectangle="1016, 598, 192, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl id='add-to-cart-sauce-labs-backpack' tag='BUTTON' /&gt;" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl tag='BUTTON' aaname='Add to cart' /&gt;&quot;)]" Guid="f92b95c0-a3ef-47af-9158-dbeeb4fb710e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="29c8a27d-674c-452c-a711-661154059162" CvTextArea="846, 399, 274, 27" CvTextArgument="[ProductName]" CvType="Text" DesignTimeRectangle="849, 400, 359, 24" ElementType="Text" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl aaname='{0}' tag='DIV' /&gt;&quot;, ProductName)]" Guid="a5859913-1319-4dbf-a324-16e062d3dbbe" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8f9dcd9ac56c59e84af2c44b876d1f57.png" xmlns="">0UJFwZaWunE-eoqoWVmOUPQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="ProductName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

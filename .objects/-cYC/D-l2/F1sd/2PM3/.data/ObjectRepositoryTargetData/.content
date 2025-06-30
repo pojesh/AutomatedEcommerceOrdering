@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FcxyLjJRfU-h3KszoAMJ0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com" CVScreenId="124ab6fc-37d9-41dc-9e61-0235767c0140" CvElementArea="1090, 595, 400, 69" CvTextArea="1263, 618, 54, 25" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="1094, 597, 395, 65" ElementType="Button" FullSelectorArgument="&lt;webctrl id='login-button' tag='INPUT' /&gt;" Guid="8a4ddbbb-93e0-4239-91b5-372a130cb252" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="77a1a00eea6bbe940560f3d9b95a1590.png" xmlns="">0-qNccSLYS065L81omKIexw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
